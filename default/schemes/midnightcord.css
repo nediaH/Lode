@@ -3,7 +3,7 @@
         
   /* Lode Specific */
 --alt-color: 50, 48, 47; /* RGB */
---alt-color2: #1bb69f !important; /* HEX */
+--alt-color2: #1bb69f; /* HEX */
 
 --green-color: #4aac8f !important;
 --green-bar-on: var(--green-color) !important;
