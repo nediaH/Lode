@@ -3,7 +3,7 @@
         
   /* Lode Specific */
 --alt-color: 50, 48, 47; /* RGB */
---alt-color2: #14171f !important; /* HEX */
+--alt-color2: #1bb69f !important; /* HEX */
 
 --green-color: #4aac8f !important;
 --green-bar-on: var(--green-color) !important;
@@ -13,7 +13,7 @@
 --green-slider-dot: #fff !important;
 
 /* Other */
---scrollbars: none !important; /* none or unset */
+--scrollbars: unset !important; /* none or unset */
 --call-bg: url(https://i.imgur.com/7QJkSkJ.png) !important; /* None To Disable */
 --call-bg-colour: var(--background-accent) !important; /* Image Overwrites */
 
