@@ -14,7 +14,7 @@
 
 /* Other */
 --scrollbars: unset !important; /* none or unset */
---call-bg: url(https://i.imgur.com/7QJkSkJ.png) !important; /* None To Disable */
+--call-bg: none !important; /* None To Disable */
 --call-bg-colour: var(--background-accent) !important; /* Image Overwrites */
 
   /* Spotify Crenshaw Plugin */
